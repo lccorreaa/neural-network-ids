@@ -1,0 +1,20 @@
+# Local data and experiment outputs
+/data/raw/*
+!/data/raw/.gitkeep
+/models/
+/runs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
