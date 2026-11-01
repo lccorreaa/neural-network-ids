@@ -8,9 +8,9 @@ This project is intentionally distinct from a text phishing detector: it uses ta
 
 ```text
 data/
-  raw/                 # Place the original archive here (not committed)
-src/ids/
-  data/                # Loading, cleaning, splitting, and preprocessing
+  raw/                 # CIC-IDS-2017
+src/
+  data/                # Data audit & preprocessing
   models/              # MLP and comparison models
   training/            # Reproducible training entry points
   evaluation/          # Metrics, plots, and reports

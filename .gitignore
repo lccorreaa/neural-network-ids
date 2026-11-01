@@ -12,6 +12,7 @@ __pycache__/
 venv/
 .pytest_cache/
 .ruff_cache/
+.env
 
 # IDE / OS
 .vscode/
