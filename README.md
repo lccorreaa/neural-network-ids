@@ -1,6 +1,6 @@
 # Network Intrusion Detection with Neural Networks
 
-A senior project exploring supervised network intrusion detection with the flow records in CIC-IDS2017 `MachineLearningCSV.zip`. The main model is a feed-forward multilayer perceptron (MLP). Experiments will compare it with simpler machine-learning baselines and evaluate how performance changes when attack types or capture scenarios are held out from training.
+A project exploring supervised network intrusion detection with the flow records in CIC-IDS2017 `MachineLearningCSV.zip`. The main model is a feed-forward multilayer perceptron (MLP). Experiments will compare it with simpler machine-learning baselines and evaluate how performance changes when attack types or capture scenarios are held out from training.
 
 This project is intentionally distinct from a text phishing detector: it uses tabular network-flow measurements, multiclass attack labels, and scenario-aware evaluation rather than TF-IDF features and email text.
 
