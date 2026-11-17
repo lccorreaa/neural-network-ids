@@ -1,6 +1,5 @@
 # Local data and experiment outputs
-/data/raw/*
-!/data/raw/.gitkeep
+/data/*
 /models/
 /runs/
 
